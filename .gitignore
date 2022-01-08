@@ -1,0 +1,8 @@
+/.vs
+/.git
+/Debug
+/Release
+/ScriptParser/Debug
+/ScriptParser/Release
+/ScriptParser/ScriptParser.vcxproj.filters
+/ScriptParser/ScriptParser.vcxproj.user
